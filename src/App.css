@@ -1,0 +1,13 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.MovieCard {
+  margin: 30px;
+  display: flex;
+  flex-direction: column;
+}
+.movielistcss {
+  display: flex;
+}
